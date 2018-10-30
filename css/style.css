@@ -1,0 +1,12 @@
+.animate-svg{
+    width: 800px;
+    margin: 200px auto;
+}
+
+.animate-svg svg{
+    stroke-width: 2px;
+    stroke: #803366;
+    width: 100%;
+    stroke-dashoffset: 0;
+    stroke-dassharray: 100;
+}

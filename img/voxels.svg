@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="130mm" height="54.1866mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 13000 5419"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <font id="FontID0" horiz-adv-x="818" font-variant="normal" style="fill-rule:nonzero" font-weight="400">
+	<font-face 
+		font-family="BatmanForeverAlternate">
+		<font-face-src>
+			<font-face-name name="BatmanForeverAlternate"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="e" horiz-adv-x="763" d="M706.001 596.006l-130.996 -132.011 -396.01 0 0 -103.996 441.01 0 -120 -120 -321.011 0 0 -102 506.006 0 -131.999 -131.999 -551.998 0 0 590.006 704.997 0z"/>
+   <glyph unicode="v" horiz-adv-x="875" d="M806.997 596.006l-319.995 -590.006 -166.003 0 -319.995 590.006 180.826 0 221.668 -404.337 221.503 404.337 181.995 0z"/>
+   <glyph unicode="s" horiz-adv-x="892" d="M818.997 187.003l-133.996 -181.003 -683.997 0 130.996 131.999 448.829 0 41.9998 48.8384 -42.4959 53.1612 -449.502 0 -129.826 174.495 133.996 181.511 683.997 0 -131.999 -132.011 -448.002 0 -42.992 -50.4919 42.992 -53.5037 450.01 0 129.992 -172.995z"/>
+   <glyph unicode="x" horiz-adv-x="875" d="M802.001 5.99998l-210.495 0 -189.342 189.495 -189.165 -189.495 -211.995 0 295.333 294.33 -295.333 295.676 211.995 0 189.33 -189.507 189.176 189.507 210.495 0 -295.168 -295.676 295.168 -294.33z"/>
+   <glyph unicode="o" horiz-adv-x="854" d="M760.001 140.161l-133.996 -134.161 -491.006 0 -133.996 134.161 0 321.672 133.996 134.173 491.006 0 133.996 -134.173 0 -321.672zm-178.003 -2.16141l0 325.995 -403.002 0 0 -325.995 403.002 0z"/>
+   <glyph unicode="l" horiz-adv-x="704" d="M685.001 137.999l-131.999 -131.999 -551.998 0 0 589.167 177.991 102.838 0 -560.006 506.006 0z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"BatmanForeverAlternate";font-variant:normal;font-weight:normal;src:url("#FontID0") format(svg)}
+    .fil0 {fill:#373435}
+    .fnt0 {font-weight:normal;font-size:846.67px;font-family:'BatmanForeverAlternate'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Camada_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <text x="4442" y="2228"  class="fil0 fnt0">voxels</text>
+ </g>
+</svg>
